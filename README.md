@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rusumarian
-- 👀 I’m interested in Web Development, Entrepreneurship and Crypto.
-- 🌱 I’m currently learning Laravel/PHP.
+- 👀 I’m interested in Web Development, Entrepreneurship and Financial Education.
+- 🌱 I’m currently learning Angular & Spring.
 - 📫 How to reach me: 
       By email: marianrusu1999@gmail.com
       By phone: 0749418332
